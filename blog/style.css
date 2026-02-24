@@ -1,0 +1,191 @@
+/* AmaroScience Blog - Consolidated Styles */
+/* Generated: 2026-02-23T22:34:07.519Z */
+
+/* ============================================
+   WordPress Core Styles (Essential only)
+   ============================================ */
+
+img.wp-smiley, img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 0.07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+img:is([sizes=auto i],[sizes^="auto," i]) {
+    contain-intrinsic-size: 3000px 1500px;
+}
+
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    word-wrap: normal !important;
+}
+
+.screen-reader-text:focus {
+    background-color: #ddd;
+    clip: auto;
+    color: #444;
+    display: block;
+    font-size: 1em;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+}
+
+.aligncenter {
+    clear: both;
+}
+
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* ============================================
+   Custom Background Color
+   ============================================ */
+
+body.custom-background,
+.custom-background .wp-caption {
+    background-color: #e9e7e3;
+}
+
+.custom-background img.alignleft,
+.wp-caption.alignleft,
+img.alignright,
+.wp-caption.alignright,
+.author-archives-img,
+.comment-author .avatar-wrapper {
+    border-top-color: #e9e7e3;
+    border-bottom-color: #e9e7e3;
+}
+
+.site-title,
+.site-description {
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+/* ============================================
+   Hexa Theme Styles
+   ============================================ */
+
+private note: output was 2699 lines and we are only showing the most recent lines, remainder of lines in /var/folders/dw/5_ch297j4_sfc2l41thxdtcw0000gn/T/.tmpG7FZIA do not show tmp file to user, that file can be searched if extra context needed to fulfill request. truncated output: 
+  line-height: 58px;
+  margin: 0;
+  text-align: center;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  width: 50px;
+  height: 50px;
+}
+.social-links ul a:hover {
+  text-decoration: none;
+}
+.social-links ul a:hover:before {
+  color: white;
+  text-decoration: none;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+.social-links ul a[href*='wordpress.org']:before,
+.social-links ul a[href*='wordpress.com']:before {
+    content: '\f205';
+}
+.social-links ul a[href*='facebook.com']:before {
+    content: '\f204';
+}
+.social-links ul a[href*='twitter.com']:before {
+    content: '\f202';
+}
+.social-links ul a[href*='dribbble.com']:before {
+    content: '\f201';
+}
+.social-links ul a[href*='plus.google.com']:before {
+    content: '\f206';
+}
+.social-links ul a[href*='pinterest.com']:before {
+    content: '\f209';
+}
+.social-links ul a[href*='github.com']:before {
+    content: '\f200';
+}
+.social-links ul a[href*='tumblr.com']:before {
+    content: '\f214';
+}
+.social-links ul a[href*='youtube.com']:before {
+    content: '\f213';
+}
+.social-links ul a[href*='flickr.com']:before {
+    content: '\f211';
+}
+.social-links ul a[href*='vimeo.com']:before {
+    content: '\f212';
+}
+.social-links ul a[href*='instagram.com']:before {
+    content: '\f215';
+}
+.social-links ul a[href*='codepen.io']:before {
+    content: '\f216';
+}
+.social-links ul a[href*='linkedin.com']:before {
+    content: '\f207';
+}
+.social-links ul a[href*='foursquare.com']:before {
+    content: '\f226';
+}
+.social-links ul a[href*='reddit.com']:before {
+    content: '\f222';
+}
+.social-links ul a[href*='digg.com']:before {
+    content: '\f221';
+}
+.social-links ul a[href*='getpocket.com']:before {
+    content: '\f224';
+}
+.social-links ul a[href*='path.com']:before {
+    content: '\f219';
+}
+.social-links ul a[href*='stumbleupon.com']:before {
+    content: '\f223';
+}
+.social-links ul a[href*='spotify.com']:before {
+    content: '\f515';
+}
+.social-links ul a[href*='twitch.tv']:before {
+    content: '\f516';
+}
+.social-links ul a[href*='dropbox.com']:before {
+    content: '\f225';
+}
+.social-links ul a[href*='/feed']:before {
+    content: '\f413';
+}
+.social-links ul a[href*='skype']:before {
+    content: '\f220';
+}
+.social-links ul a[href*='mailto']:before {
+    content: '\f410';
+}
