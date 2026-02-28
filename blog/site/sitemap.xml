@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://amaroscience.com/blog/</loc>
+        <loc>https://amaroscience.com/blog/site/</loc>
       </url>
       <url>
-        <loc>https://amaroscience.com/blog/data-porn/</loc>
+        <loc>https://amaroscience.com/blog/site/data-porn/</loc>
       </url>
       <url>
-        <loc>https://amaroscience.com/blog/data-scientist/</loc>
+        <loc>https://amaroscience.com/blog/site/data-scientist/</loc>
       </url>
       <url>
-        <loc>https://amaroscience.com/blog/math-methodology/</loc>
+        <loc>https://amaroscience.com/blog/site/math-methodology/</loc>
       </url>
       <url>
-        <loc>https://amaroscience.com/blog/pixie-dust/</loc>
+        <loc>https://amaroscience.com/blog/site/pixie-dust/</loc>
       </url>
       <url>
-        <loc>https://amaroscience.com/blog/stacey-abrams/</loc>
+        <loc>https://amaroscience.com/blog/site/stacey-abrams/</loc>
       </url>
 </urlset>
